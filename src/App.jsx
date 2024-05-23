@@ -8,6 +8,7 @@ import MagicWand from "./components/MagicWand";
 import ApplyCard from "./components/ApplyCard";
 import SupportedBrowsers from "./components/SupportedBrowsers";
 import Plugins from "./components/Plugins";
+import Footer from "./components/Footer";
 
 const App = () => {
   useEffect(() => {
@@ -23,6 +24,7 @@ const App = () => {
       <ApplyCard />
       <SupportedBrowsers />
       <Plugins />
+      <Footer />
     </div>
   );
 };
