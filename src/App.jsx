@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import NavBar from "./components/NavBar";
 import Banner from "./components/Banner";
 import Review from "./components/Review";
+import MagicWand from "./components/MagicWand";
 
 const App = () => {
   useEffect(() => {
@@ -15,6 +16,7 @@ const App = () => {
       <NavBar />
       <Banner />
       <Review />
+      <MagicWand />
     </div>
   );
 };
