@@ -10,6 +10,7 @@ This repository contains the frontend implementation of the Motion Art Effect ho
 - Vite
 - TailwindCSS
 - webGL
+- GSap
 
 ## Getting Started
 
@@ -28,7 +29,7 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Live Demo
 
-You can view the live demo of the project [HERE.](http)
+[You can view the live demo of the project here.](https://motion-art-effect-clone.netlify.app/)
 
 ## Credits
 
@@ -37,6 +38,6 @@ You can view the live demo of the project [HERE.](http)
 - Fonts: Sora, Outfit
 - Gradient Color: linear-gradient(90deg, #F87516 0%, #5E11FF 100%)
 
-## Thanks
+## Acknowledgment
 
-A heartfelt thanks to Heliverse for providing this assignment opportunity!
+A heartfelt acknowledgment to Heliverse for providing this assignment opportunity! Your generosity in sharing this project has allowed us to deepen our understanding and skills in frontend development. We are grateful for the chance to work on such an engaging and challenging project, and we appreciate the opportunity to showcase our abilities. Thank you for your support and encouragement throughout this endeavor.
