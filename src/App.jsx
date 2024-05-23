@@ -5,6 +5,7 @@ import NavBar from "./components/NavBar";
 import Banner from "./components/Banner";
 import Review from "./components/Review";
 import MagicWand from "./components/MagicWand";
+import ApplyCard from "./components/ApplyCard";
 
 const App = () => {
   useEffect(() => {
@@ -17,6 +18,7 @@ const App = () => {
       <Banner />
       <Review />
       <MagicWand />
+      <ApplyCard />
     </div>
   );
 };
