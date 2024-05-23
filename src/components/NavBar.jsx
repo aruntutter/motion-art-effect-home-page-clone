@@ -3,7 +3,7 @@ import Logo from "../assets/images/MotionArtEffect-logo.png";
 
 const Home = () => {
   return (
-    <div className="xl:flex pt-16 items-center 2x2:mx-60 xl:mx-20 mx-5 justify-between">
+    <div className="xl:flex pt-16 items-center 2xl:mx-60 xl:mx-20 mx-5 justify-between">
       <img
         className="cursor-pointer w-2/4 md:w-auto"
         src={Logo}
