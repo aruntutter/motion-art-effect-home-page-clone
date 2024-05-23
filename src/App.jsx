@@ -7,6 +7,7 @@ import Review from "./components/Review";
 import MagicWand from "./components/MagicWand";
 import ApplyCard from "./components/ApplyCard";
 import SupportedBrowsers from "./components/SupportedBrowsers";
+import Plugins from "./components/Plugins";
 
 const App = () => {
   useEffect(() => {
@@ -21,6 +22,7 @@ const App = () => {
       <MagicWand />
       <ApplyCard />
       <SupportedBrowsers />
+      <Plugins />
     </div>
   );
 };
