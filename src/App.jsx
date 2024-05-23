@@ -6,6 +6,7 @@ import Banner from "./components/Banner";
 import Review from "./components/Review";
 import MagicWand from "./components/MagicWand";
 import ApplyCard from "./components/ApplyCard";
+import SupportedBrowsers from "./components/SupportedBrowsers";
 
 const App = () => {
   useEffect(() => {
@@ -19,6 +20,7 @@ const App = () => {
       <Review />
       <MagicWand />
       <ApplyCard />
+      <SupportedBrowsers />
     </div>
   );
 };
